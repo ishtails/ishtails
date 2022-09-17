@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kartik.
-- 👀 I’m interested in exploring all the domains of development...
+- 👀 I’m interested in exploring all the domains of development... Currently doing Web Development.
 - 📫 reach me @ishtails on instagram/twitter...
 
 <!---
