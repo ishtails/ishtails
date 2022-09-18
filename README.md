@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Kartik.
-- 👀 I’m interested in exploring all the domains of development... Currently into Web Dev!
-- 📫 reach me @ishtails on instagram/twitter...
+-🌱 I’m currently exploring Web Development (MERN)
+
+🔥 I'm a Graphic Designer, DJ and Music Producer as well!
+    (Looking to collaborate on projects in these fields...)
+
+📫 Reach me at kartik100100@gmail.com
+
+🧑 or find me @ishtails on instagram!
+
+🚀 Languages and Tools
 
 <!---
 ishtails/ishtails is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
