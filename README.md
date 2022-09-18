@@ -1,13 +1,14 @@
--🌱 I’m currently exploring Web Development (MERN)
+## 👉👈 About Me
+-🌱 I’m currently exploring **Web Development (MERN)!**
 
-🔥 I'm a Graphic Designer, DJ and Music Producer as well!
-    (Looking to collaborate on projects in these fields...)
+🔥 I'm a **Graphic Designer, DJ & Music Producer** as well!
+    (Looking to collaborate on projects...)
 
 📫 Reach me at kartik100100@gmail.com
 
-🧑 or find me @ishtails on instagram!
+🧑 or find me *[@ishtails](https://www.instagram.com/ishtails/)* on instagram!
 
-🚀 Languages and Tools
+## 👻 Languages and Tools
 
 <!---
 ishtails/ishtails is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
