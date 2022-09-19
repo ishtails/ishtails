@@ -17,7 +17,6 @@
 -🌱 I’m currently exploring **Web Development (MERN)!**
 
 🔥 I'm a **Graphic Designer, DJ & Music Producer** as well!
-    (Looking to collaborate on projects...)
 
 📫 Reach me at *kartik100100@gmail.com*
 
