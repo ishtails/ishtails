@@ -43,6 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;  
 </div>
 
+## Badges
+[![@ishtails's Holopin board](https://holopin.me/ishtails)](https://holopin.io/@ishtails)
+
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishtails&theme=dark&background=000000)](https://git.io/streak-stats)
 <br><br>
