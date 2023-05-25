@@ -16,9 +16,7 @@
 
 ## 👉👈 About Me
 
-🍕 I'm a **Full Stack MERN Developer**
-
-🌱 I’m currently exploring **AI & Machine Learning!**
+🍕 I'm a **MERN Stack Developer**
 
 🔥 I'm a **Graphic Designer, Video Editor & Music Producer** as well!
 
