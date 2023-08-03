@@ -20,7 +20,7 @@
 
 🔥 I'm a **Graphic Designer, Video Editor & Music Producer** as well!
 
-📫 Reach me at *kartik100100@gmail.com*
+📫 Take a look at my [Resume](https://drive.google.com/file/d/19DGlRnIUTWJrJtX5HpC9yUyEHEjrLb66/view?usp=sharing)
 
 🧑 or find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
 
