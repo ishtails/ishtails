@@ -47,8 +47,6 @@
 [![@ishtails's Holopin board](https://holopin.me/ishtails)](https://holopin.io/@ishtails)
 
 ## Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishtails&theme=dark&background=000000)](https://git.io/streak-stats)
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ishtails&theme=dark&background=000000">
 </p>
