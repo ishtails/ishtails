@@ -16,13 +16,13 @@
 
 ## 👉👈 About Me
 
-🍕 I'm a **MERN Stack Developer**
+🍕 I'm a **Full Stack Web Developer**
 
 🔥 I'm a **Graphic Designer, Video Editor & Music Producer** as well!
 
 📫 Reach me at *kartik100100@gmail.com*
 
-🧑 or find me *[@ishtails](https://www.instagram.com/ishtails/)* on instagram!
+🧑 or find me *[@shtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
 
 🕸️ Visit My Portfolio Website [Here](https://styles-portfolio.vercel.app/)!
 
