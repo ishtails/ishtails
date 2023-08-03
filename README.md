@@ -22,7 +22,7 @@
 
 📫 Reach me at *kartik100100@gmail.com*
 
-🧑 or find me *[@shtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
+🧑 or find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
 
 🕸️ Visit My Portfolio Website [Here](https://styles-portfolio.vercel.app/)!
 
