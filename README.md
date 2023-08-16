@@ -18,7 +18,7 @@
 
 🍕 I'm a **Full Stack Web Developer**
 
-🔥 I'm a **Graphic Designer, Video Editor & Music Producer** as well!
+🔥 I'm a **Graphic Designer, Music Producer and Video Editor** as well!
 
 📫 Take a look at my [Resume](https://drive.google.com/file/d/19DGlRnIUTWJrJtX5HpC9yUyEHEjrLb66/view?usp=sharing)
 
