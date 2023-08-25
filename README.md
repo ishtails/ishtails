@@ -20,7 +20,7 @@
 
 🔥 I'm a **Graphic Designer, Music Producer and Video Editor** as well!
 
-📫 Take a look at my [Resume](https://drive.google.com/file/d/19DGlRnIUTWJrJtX5HpC9yUyEHEjrLb66/view?usp=sharing)
+📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1N-iV4sW8bqkS8aONYb4euf0PtIkiTL6J?usp=drive_link)
 
 🧑 or find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
 
