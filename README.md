@@ -16,7 +16,7 @@
 
 ## 👉👈 About Me
 
-🍕 I'm a **Full Stack Web Developerr**
+🍕 I'm a **Full Stack Web Developer**
 
 🔥 I'm a **Graphic Designer, Music Producer and Video Editor** as well.
 
