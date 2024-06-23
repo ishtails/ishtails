@@ -20,11 +20,9 @@
 
 🔥 I'm a **Musician / Artist** as well.
 
-📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1N-iV4sW8bqkS8aONYb4euf0PtIkiTL6J?usp=drive_link)
+🧑 find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin
 
-🧑 or find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin!
-
-🕸️ Visit My Portfolio Website [Here](https://styles-portfolio.vercel.app/)!
+🕸️ Check out my website [Here](https://styles-portfolio.vercel.app/)
 
 ## 👻 Languages and Tools
 <div>
