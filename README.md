@@ -20,7 +20,7 @@
 
 🔥 I'm a **Musician / Artist** as well.
 
-🧑 find me *[@ishtails](https://www.linkedin.com/in/ishtails/)* on linkedin
+🧑 find me *[@ishtails](https://www.instagram.com/ishtails/)* everywhere!
 
 🕸️ Check out my website [Here](https://styles-portfolio.vercel.app/)
 
