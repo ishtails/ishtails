@@ -25,7 +25,7 @@
 
 ## 👻 Languages and Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,mongodb,redis,docker,postman,nextjs,react,tailwind,aws,githubactions,bash,tensorflow,git&perline=19" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,cpp,nodejs,express,mongodb,redis,docker,postman,nextjs,react,tailwind,aws,postgres,bash,linux,git&perline=19" />
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
