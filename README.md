@@ -17,8 +17,6 @@
 
 🍕 I'm a **Full Stack Web & Web3 Developer / Software Engineer**
 
-🔥 I'm an **Electronic Music Producer / DJ** as well.
-
 🕸️ Check out my [Linkedin](https://www.linkedin.com/in/ishtails/) / [Resume](https://drive.google.com/drive/u/1/folders/1N-iV4sW8bqkS8aONYb4euf0PtIkiTL6J?usp=sharing)
 
 🧑 follow me on instagram *[@ishtails](https://www.instagram.com/ishtails/)*!
