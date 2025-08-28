@@ -20,8 +20,3 @@
 
 ## Holopin
 [![@ishtails's Holopin board](https://holopin.me/ishtails)](https://holopin.io/@ishtails)
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishtails&theme=dark&background=000000">
-</p>
