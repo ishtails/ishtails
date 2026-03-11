@@ -31,6 +31,7 @@
 
 - 🤖 **[friday](https://github.com/0xstyles/friday)** - Personal Assistant MCP Server for managing goals, ideas, calendar, notes, designs, shortcuts, and media
 - ⛓️ **[filosign](https://github.com/ishtails/filosign)** - Post-quantum secure document signing with zero-trust architecture and Filecoin anchoring
+- 🚀 **[verity](https://github.com/ishtails/haithe)** - Verifiable Proof-of-value for the expert economy
 - 📦 **[beaver-social](https://github.com/ishtails/beaver-social)** - Headless Web3 social infrastructure with Sui blockchain integration and immutable social graphs
 - 🏢 **[haithe](https://github.com/ishtails/haithe)** - AI agent platform combining Web3 blockchain technology with advanced AI capabilities for decentralized ecosystems
 
