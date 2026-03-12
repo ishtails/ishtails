@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=ishtails&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi, I'm Kartikay 👋
+# Hi, I'm Kartik 👋
 
 📍 **Mumbai, India** | 🤖 **Fullstack & Web3 Developer** | 🚀 **Building AI-powered design systems and decentralized infrastructure**
 
