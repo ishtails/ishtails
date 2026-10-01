@@ -16,8 +16,8 @@ I build production systems end to end: LLM and agent pipelines, backend services
 ## Selected Work at Hetairoi
 
 * **Multi-Agent Orchestration Platform:** A multi-tenant platform for building, deploying and monetising AI agents. Multi-model orchestration across LLM providers, MCP tool integration, agent memory and RAG knowledge bases, streaming chat, and deployment to Telegram and Discord. Org-level access control, usage metering and spend tracking, plus a marketplace for tools and knowledge bases.
-* **Speech-to-Text LLM Evaluation Pipeline:** Ingests live calls from Zoom and Google Meet, runs them through a speech-to-text pipeline, and passes the transcripts to an LLM evaluation pipeline. Multi-agent critique (LLM-as-judge), rubric-based grading against weighted goals, and strict structured-output validation, with a deterministic scoring layer and a full audit trail. Includes a real-time voice interface, and the scores trigger automated settlement.
-* **Social Protocol SDK Platform:** A headless, Farcaster-style social layer with a layered architecture: Move smart contracts on Sui, a REST API with an on-chain event indexer, and TypeScript and React SDKs published to npm. Wallet-based auth, a social graph, and chained signatures that block replay attacks.
+* **LLM Transcript Evaluation Engine:** Meeting bots capture transcripts from live Zoom and Google Meet calls, and an LLM evaluation pipeline scores each session against weighted goals. Multi-agent critique (LLM-as-judge), rubric-based grading and strict structured-output validation, with a deterministic scoring layer, a full audit trail, and scores that trigger automated settlement.
+* **Decentralized Social Platform (client):** Backend, REST API and integrations for a Farcaster-style social layer on Sui: an on-chain event indexer, wallet-based auth, chained signatures against replay attacks, and TypeScript and React SDKs published to npm.
 
 ## Core Projects
 
