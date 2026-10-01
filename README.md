@@ -1,51 +1,65 @@
+<!-- Paste-ready README for github.com/ishtails/ishtails. Same layout as the old one. Neutral identity: AI and backend lead, Web3 lives inside the projects.
+     The two Hetairoi AI systems use the same wording as cv/drafts/applied_ai_v2.md, so a reader cross-checking the CV finds the same keywords.
+     Before publishing: resolve the TODO comments, and move the 0xstyles repos (friday, mcp, mono) to ishtails. -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="720"/>
 </div>
 <br/>
 
-# Kartikay Tiwari 
-  <img src="https://komarev.com/ghpvc/?username=ishtails&style=flat-square&color=blue" alt="Profile Views"/>
+# Kartikay Tiwari
 
-**Software Engineer | Distributed Systems & Decentralized Protocols**
+**Software Engineer | Applied AI, Backend & Distributed Systems**
 
-Computer Science graduate from IIIT Gwalior (2025). Focused on high-performance distributed systems, real-time data pipelines, and cryptographic financial rails. Passionate about computer systems, concurrency, and on-chain protocol architecture.
+I build production systems end to end: LLM and agent pipelines, backend services and data infrastructure, payments, and the apps on top. Software engineer at Hetairoi, a US engineering studio. My last product was featured by Filecoin, and I've done contract work for the Ethereum Foundation. CS & Engineering, IIIT Gwalior (2025). Based in India; open to work.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,py,cpp,solidity,js,nodejs,postgres,redis,docker,linux,bash,aws,react,nextjs,tailwind,git&perline=16" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,py,nodejs,bun,react,nextjs,postgres,redis,docker,aws,cloudflare,linux,solidity,cpp,git&perline=15" alt="Tech Stack Icons" />
 </div>
+
+## Selected Work at Hetairoi (private)
+
+* **Multi-Agent Orchestration Platform:** A multi-tenant platform for building, deploying and monetising AI agents. Multi-model orchestration across LLM providers, MCP tool integration, agent memory and RAG knowledge bases, streaming chat, and deployment to Telegram and Discord. Org-level access control, usage metering and spend tracking, plus a marketplace for tools and knowledge bases.
+* **Speech-to-Text LLM Evaluation Pipeline:** Ingests live calls from Zoom and Google Meet, runs them through a speech-to-text pipeline, and passes the transcripts to an LLM evaluation pipeline. Multi-agent critique (LLM-as-judge), rubric-based grading against weighted goals, and strict structured-output validation, with a deterministic scoring layer and a full audit trail. Includes a real-time voice interface, and the scores trigger automated settlement.
 
 ## Core Projects
 
-* **[Filosign](https://github.com/hetairoi-labs/filosign):** Decentralized, zero-trust agreement protocol for the Filecoin ecosystem. Features post-quantum cryptography (Kyber/Dilithium), server-sponsored meta-transactions (zero-gas UX), and Sybil-resistant authentication via World ID.
-* **[Verity](https://github.com/hetairoi-labs/verity):** Autonomous payment settlement protocol integrating Chainlink Compute (CRE) and LLMs to execute merit-based, trustless USDC escrow payouts on EVM smart contracts without human arbiters.
-* **[Haithe](https://github.com/hetairoi-labs/haithe):** On-chain AI agent orchestration platform on Metis. Engineered machine-to-machine (M2M) micro-transactions via USDT smart contracts for automated agent workflow monetization.
-* **[Beaver Social](https://github.com/hetairoi-labs/beaver-social):** Headless Web3 social infrastructure protocol built on Sui using Move smart contracts and an off-chain cryptographic "Action-Chain" verification system to prevent replay attacks.
-* **[Friday](https://github.com/0xstyles/friday):** Open-source Model Context Protocol (MCP) server functioning as an AI personal assistant integrating local terminal, calendar, and system workflows.
+* **[Filosign](https://github.com/filosign-dapp/filosign):** End-to-end encrypted agreements with automated payouts. Client-side encryption (AES-GCM, post-quantum ML-KEM and Dilithium), a Hono API, a React SDK and ~1,300 tests. Smart contracts on Base mainnet release payments when signing conditions are met, and sponsored-gas accounts (ERC-4337, EIP-7702) mean users never touch crypto. Featured by Filecoin on its [blog](https://filecoin.io/blog/posts/introducing-filecoin-onchain-cloud/) and [X](https://x.com/Filecoin/status/2054688161377271830). *Complete;*
+* **[Portal](https://github.com/hetairoi-labs/portal):** Trustless, encrypted, decentralized file sharing, built for Protocol Labs' PL Genesis (prize winner). The groundwork for Filosign.
+* **[Beaver Social](https://github.com/hetairoi-labs/beaver-social):** A headless social protocol toolkit like Farcaster on Sui. Move smart contracts, TypeScript, React and React Native SDKs; an event indexer and REST API; and a signature chain that blocks replay attacks.
+* **[Friday](https://github.com/0xstyles/friday):** My personal AI assistant: an MCP server wired into my terminal, calendar and daily workflows.
 
 ## Developer Tooling & Infrastructure
 
-* **[MCP Template](https://github.com/0xstyles/mcp):** Minimal, high-performance template for building Model Context Protocol servers utilizing Bun and TypeScript.
-* **[Mono](https://github.com/0xstyles/mono):** Opinionated monorepo architecture template for scaling full-stack applications with strict type-safety and CI/CD configurations.
+* **[MCP Template](https://github.com/0xstyles/mcp):** A minimal template for building Model Context Protocol servers with Bun and TypeScript.
+* **[Mono](https://github.com/0xstyles/mono):** An opinionated full-stack monorepo template with strict type safety and CI/CD.
+* **[FastLOB](https://github.com/ishtails/FastLOB):** A small limit order book matching engine in modern C++ (price-time priority, allocation-free hot path). <!-- TODO: publish benchmark output before quoting any latency -->
 
 ## Technical Skills & Architecture
 
-* **Programming Languages:** Python, TypeScript, C/C++, Solidity, JavaScript
-* **Frameworks & Runtimes:** Node.js, FastAPI, Bun, Hono, Express, React, Next.js, TailwindCSS
-* **Systems & Architecture:** Concurrency, Real-Time Streaming (RTMP/HLS), WebSockets, Server-Sent Events (SSE), Event-Driven Architecture, Asynchronous Task Queues, Low-Latency APIs
-* **Databases & Storage:** PostgreSQL (SQL), Redis, MongoDB, IPFS / Filecoin
-* **Infrastructure & Tooling:** Linux, Shell Scripting, Docker, AWS, Cloudflare Edge / Workers, CI/CD Pipelines, Git
-* **Web3 & Cryptography:** EVM Smart Contracts, Oracles (Chainlink CRE), Meta-Transactions (Zero-Gas UX), Sui (Move), Sybil Resistance (World ID), Cryptographic State Verification
-* **Data & AI Systems:** Pandas, Numpy, Custom Model Context Protocol (MCP) Servers, RAG Pipelines, Multi-Agent Orchestration
+* **Languages:** TypeScript, Python, SQL, Solidity, C++
+* **Applied AI:** LLM pipelines and evals, multi-agent orchestration, RAG, MCP tools, structured outputs
+* **Backend & Data:** Node.js, Bun, Hono, FastAPI, PostgreSQL, Redis, job queues, event-driven pipelines, WebSockets, SSE, Stripe
+* **Frontend & Mobile:** React, Next.js, TanStack, React Native, TailwindCSS
+* **Infrastructure:** Docker, AWS, Cloudflare, CI/CD, Linux
+* **Blockchain:** Solidity, Foundry / Hardhat, viem / wagmi, account abstraction (ERC-4337, EIP-7702), stablecoin payments
+* **Security:** Client-side encryption, RSA, AES-256, signature verification, replay protection
 
 ## Proof of Work & Recognition
 
-* **Filecoin Alpha Cohort (2025):** Ranked #1 on AKINDO for Filosign's verifiable on-chain architecture out of 50+ global products.
-* **TRON Grand Hackathon S7:** Winner (DeFi Track) out of 1,300+ global participants for automated protocol risk evaluation.
-* **Metis Hyperhack (2025):** Top prize ($30k pool) for Haithe's on-chain agent marketplace architecture.
-* **Optimism & Filecoin Grants:** Recipient of retroactive public goods funding (RetroPGF-3) for verifiable protocol innovations.
-* **Devconnect Buenos Aires:** Selected Top Builder at DePIN Day.
+* **Filecoin:** Filosign featured in the official [Onchain Cloud launch](https://filecoin.io/blog/posts/introducing-filecoin-onchain-cloud/) (Nov 2025) and by [@Filecoin on X](https://x.com/Filecoin/status/2054688161377271830) (May 2026). #1 out of 109 products on Filecoin Onchain Cloud Alpha Cohort (Akindo)
+* **Devconnect Buenos Aires:** Panelist on the [Filecoin Alpha Builders Showcase](https://x.com/FILBuilders/status/1990831256691450221) at DePIN Day ([video](https://youtu.be/5Cl8xJQKXJE?t=10015)).
+* **Ethereum Foundation:** Contract (Frontend) on Kohaku, the EF's wallet extension (2025).
+* **Filecoin RetroPGF-3:** Retroactive public goods funding for Filosign. <!-- TODO: Count is 1.. --> 
+* **TRON Grand Hackathon S7:** [Winner (Main + Community Track)](https://devpost.com/software/justinsure) for JustInsure, a decentralized insurance market.
 
 ## Socials
 <a href="https://www.linkedin.com/in/ishtails">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:kartik100100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://x.com/ishtails">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </a>
