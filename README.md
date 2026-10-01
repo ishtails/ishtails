@@ -24,7 +24,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
 * **[Portal](https://github.com/hetairoi-labs/portal):** Trustless, encrypted, decentralized file sharing, built for Protocol Labs' PL Genesis (prize winner). The groundwork for Filosign.
 * **[Beaver Social](https://github.com/hetairoi-labs/beaver-social):** A headless social protocol toolkit like Farcaster on Sui. Move smart contracts, TypeScript, React and React Native SDKs; an event indexer and REST API; and a signature chain that blocks replay attacks.
 * **[Friday](https://github.com/ishtails/friday):** My personal AI assistant: an MCP server wired into my terminal, calendar and daily workflows.
-* **[FastLOB](https://github.com/ishtails/FastLOB):** A small limit order book matching engine in modern C++ (price-time priority, allocation-free hot path).
+* **[FastLOB](https://github.com/ishtails/FastLOB):** A limit order book matching engine in modern C++ (price-time priority, allocation-free hot path).
 
 ## Technical Skills & Architecture
 
@@ -34,7 +34,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
 * **Frontend & Mobile:** React, Next.js, TanStack, React Native, TailwindCSS
 * **Infrastructure:** Docker, AWS, Cloudflare, CI/CD, Linux
 * **Blockchain:** Solidity, Foundry / Hardhat, viem / wagmi, account abstraction (ERC-4337, EIP-7702), stablecoin payments
-* **Security:** Client-side encryption, RSA, AES-256, signature verification, replay protection
+* **Security:** Hashing (SHA), encryption (RSA, AES-256), signature verification, replay protection
 
 ## Proof of Work & Recognition
 
