@@ -27,12 +27,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
 * **[Filosign](https://github.com/filosign-dapp/filosign):** End-to-end encrypted agreements with automated payouts. Client-side encryption (AES-GCM, post-quantum ML-KEM and Dilithium), a Hono API, a React SDK and ~1,300 tests. Smart contracts on Base mainnet release payments when signing conditions are met, and sponsored-gas accounts (ERC-4337, EIP-7702) mean users never touch crypto. Featured by Filecoin on its [blog](https://filecoin.io/blog/posts/introducing-filecoin-onchain-cloud/) and [X](https://x.com/Filecoin/status/2054688161377271830). *Complete;*
 * **[Portal](https://github.com/hetairoi-labs/portal):** Trustless, encrypted, decentralized file sharing, built for Protocol Labs' PL Genesis (prize winner). The groundwork for Filosign.
 * **[Beaver Social](https://github.com/hetairoi-labs/beaver-social):** A headless social protocol toolkit like Farcaster on Sui. Move smart contracts, TypeScript, React and React Native SDKs; an event indexer and REST API; and a signature chain that blocks replay attacks.
-* **[Friday](https://github.com/0xstyles/friday):** My personal AI assistant: an MCP server wired into my terminal, calendar and daily workflows.
-
-## Developer Tooling & Infrastructure
-
-* **[MCP Template](https://github.com/ishtails/mcp):** A minimal template for building Model Context Protocol servers with Bun and TypeScript.
-* **[Mono](https://github.com/ishtails/mono):** An opinionated full-stack monorepo template with strict type safety and CI/CD.
+* **[Friday](https://github.com/ishtails/friday):** My personal AI assistant: an MCP server wired into my terminal, calendar and daily workflows.
 * **[FastLOB](https://github.com/ishtails/FastLOB):** A small limit order book matching engine in modern C++ (price-time priority, allocation-free hot path). <!-- TODO: publish benchmark output before quoting any latency -->
 
 ## Technical Skills & Architecture
