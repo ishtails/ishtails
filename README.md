@@ -13,7 +13,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
   <img src="https://skillicons.dev/icons?i=ts,py,nodejs,bun,react,nextjs,postgres,redis,docker,aws,cloudflare,linux,solidity,cpp,git&perline=15" alt="Tech Stack Icons" />
 </div>
 
-## Selected Work at Hetairoi (private)
+## Selected Work at Hetairoi
 
 * **Multi-Agent Orchestration Platform:** A multi-tenant platform for building, deploying and monetising AI agents. Multi-model orchestration across LLM providers, MCP tool integration, agent memory and RAG knowledge bases, streaming chat, and deployment to Telegram and Discord. Org-level access control, usage metering and spend tracking, plus a marketplace for tools and knowledge bases.
 * **Speech-to-Text LLM Evaluation Pipeline:** Ingests live calls from Zoom and Google Meet, runs them through a speech-to-text pipeline, and passes the transcripts to an LLM evaluation pipeline. Multi-agent critique (LLM-as-judge), rubric-based grading against weighted goals, and strict structured-output validation, with a deterministic scoring layer and a full audit trail. Includes a real-time voice interface, and the scores trigger automated settlement.
@@ -24,7 +24,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
 * **[Portal](https://github.com/hetairoi-labs/portal):** Trustless, encrypted, decentralized file sharing, built for Protocol Labs' PL Genesis (prize winner). The groundwork for Filosign.
 * **[Beaver Social](https://github.com/hetairoi-labs/beaver-social):** A headless social protocol toolkit like Farcaster on Sui. Move smart contracts, TypeScript, React and React Native SDKs; an event indexer and REST API; and a signature chain that blocks replay attacks.
 * **[Friday](https://github.com/ishtails/friday):** My personal AI assistant: an MCP server wired into my terminal, calendar and daily workflows.
-* **[FastLOB](https://github.com/ishtails/FastLOB):** A limit order book matching engine in modern C++ (price-time priority, allocation-free hot path).
+* **[FastLOB](https://github.com/ishtails/FastLOB):** A small limit order book matching engine in modern C++ (price-time priority, allocation-free hot path).
 
 ## Technical Skills & Architecture
 
