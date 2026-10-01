@@ -31,8 +31,8 @@ I build production systems end to end: LLM and agent pipelines, backend services
 
 ## Developer Tooling & Infrastructure
 
-* **[MCP Template](https://github.com/0xstyles/mcp):** A minimal template for building Model Context Protocol servers with Bun and TypeScript.
-* **[Mono](https://github.com/0xstyles/mono):** An opinionated full-stack monorepo template with strict type safety and CI/CD.
+* **[MCP Template](https://github.com/ishtails/mcp):** A minimal template for building Model Context Protocol servers with Bun and TypeScript.
+* **[Mono](https://github.com/ishtails/mono):** An opinionated full-stack monorepo template with strict type safety and CI/CD.
 * **[FastLOB](https://github.com/ishtails/FastLOB):** A small limit order book matching engine in modern C++ (price-time priority, allocation-free hot path). <!-- TODO: publish benchmark output before quoting any latency -->
 
 ## Technical Skills & Architecture
