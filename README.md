@@ -38,7 +38,7 @@ I build production systems end to end: LLM and agent pipelines, backend services
 * **Frontend & Mobile:** React, Next.js, TanStack, React Native, TailwindCSS
 * **Infrastructure:** Docker, AWS, Cloudflare, CI/CD, Linux
 * **Blockchain:** Solidity, Foundry / Hardhat, viem / wagmi, account abstraction (ERC-4337, EIP-7702), stablecoin payments
-* **Security:** Client-side encryption, RSA, AES-256, signature verification, replay protection
+* **Security:** hashing, encryption, cryptography, signature verification, replay protection
 
 ## Proof of Work & Recognition
 
